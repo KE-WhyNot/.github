@@ -65,30 +65,30 @@
 <section id="intro">
   <h2>📖 프로젝트 소개</h2>
 
-  <figure style="text-align:center; margin: 0 0 32px;">
-    <img src="../assets/home.png" alt="YouthFi 서비스 홈 화면" style="max-width:100%; border-radius:12px;" />
-    <figcaption style="margin-top:8px; font-size:0.95rem;">YouthFi 서비스 홈 화면</figcaption>
-  </figure>
+  <p align="center">
+    <img src="../assets/home.png" alt="YouthFi 서비스 홈 화면" width="720" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 홈 화면</em></p>
 
-  <figure style="text-align:center; margin: 0 0 32px;">
-    <img src="../assets/policy.png" alt="YouthFi 서비스 정책 화면" style="max-width:100%; border-radius:12px;" />
-    <figcaption style="margin-top:8px; font-size:0.95rem;">YouthFi 서비스 정책 화면</figcaption>
-  </figure>
+  <p align="center">
+    <img src="../assets/policy.png" alt="YouthFi 서비스 정책 화면" width="720" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 정책 화면</em></p>
 
-  <figure style="text-align:center; margin: 0 0 32px;">
-    <img src="../assets/deposits.png" alt="YouthFi 서비스 예적금 화면" style="max-width:100%; border-radius:12px;" />
-    <figcaption style="margin-top:8px; font-size:0.95rem;">YouthFi 서비스 예적금 화면</figcaption>
-  </figure>
+  <p align="center">
+    <img src="../assets/deposits.png" alt="YouthFi 서비스 예적금 화면" width="720" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 예적금 화면</em></p>
 
-  <figure style="text-align:center; margin: 0 0 32px;">
-    <img src="../assets/invest.png" alt="YouthFi 서비스 모의투자 화면" style="max-width:100%; border-radius:12px;" />
-    <figcaption style="margin-top:8px; font-size:0.95rem;">YouthFi 서비스 모의투자 화면</figcaption>
-  </figure>
+  <p align="center">
+    <img src="../assets/invest.png" alt="YouthFi 서비스 모의투자 화면" width="720" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 모의투자 화면</em></p>
 
-  <figure style="text-align:center; margin: 0 0 32px;">
-    <img src="../assets/portfolio.png" alt="YouthFi 서비스 포트폴리오 화면" style="max-width:100%; border-radius:12px;" />
-    <figcaption style="margin-top:8px; font-size:0.95rem;">YouthFi 서비스 포트폴리오 화면</figcaption>
-  </figure>
+  <p align="center">
+    <img src="../assets/portfolio.png" alt="YouthFi 서비스 포트폴리오 화면" width="720" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 포트폴리오 화면</em></p>
 
   <h3>1) 프로젝트 개요</h3>
   <p>
@@ -495,11 +495,17 @@ chore(ci): bump node to 20.x in workflow
 </code></pre>
 
 <h3>Infra 아키텍처</h3>
-![Infra Structure](../assets/Infra.jpg)
+<p align="center">
+  <img src="../assets/infra.png" alt="YouthFi Infra 아키텍처" width="720" />
+</p>
 <h3>CDC 아키텍처</h3>
-![CDC Pipeline](../assets/CDC.png)
+<p align="center">
+  <img src="../assets/cdc.png" alt="YouthFi CDC 파이프라인" width="720" />
+</p>
 <h3>DevOps 아키텍처</h3>
-![DevOps Architecture](../assets/DevOps.png)
+<p align="center">
+  <img src="../assets/devops.png" alt="YouthFi DevOps 아키텍처" width="720" />
+</p>
 </section>
 
 <hr />
