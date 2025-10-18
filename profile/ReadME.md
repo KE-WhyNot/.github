@@ -37,7 +37,7 @@
   </p>
 
 <h3 align="center">📒 목차</h3>
-<p class="toc" style="text-align:center; margin:0;">
+<p align="center" class="toc" style="margin:0;">
   <a href="#intro">프로젝트 소개</a>
   <span aria-hidden="true"> | </span>
   <a href="#team">팀원 구성</a>
