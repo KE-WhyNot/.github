@@ -3,26 +3,24 @@
 ==========================-->
 
 <!-- 헤더 / 배지 -->
-<header id="top" align="center">
-  <h1>YouthFi — 청년 정책∙예적금 추천 및 모의투자 시스템</h1>
+<header id="top">
+  <h1 align="center">YouthFi — 청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템</h1>
 
-  <p>
-    <a href="https://api.alzheimerdinger.com/swagger-ui/index.html#/">
-      <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger API Docs Badge" />
-    </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Swagger-API%20Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger API Docs Badge" />
     <img src="https://img.shields.io/badge/License-MIT-000000?style=for-the-badge" alt="MIT License Badge" />
   </p>
 
-  <p><em>금융에 대해 처음 공부하는 청년들을 대상으로 정책∙예적금 추천 및 실제 주가를 기반으로 하는 모의투자 시스템</em></p>
-  <p><em>주가 정보, 기업 투자 분석, 금융지식 질문 등 RAG 기반 AI 챗봇 시스템</em></p>
+  <p align="center"><em>금융에 대해 처음 공부하는 청년들을 대상으로 정책∙예적금 추천 및 실제 주가를 기반으로 하는 모의투자 시스템</em></p>
+  <p align="center"><em>투자 성향에 따른 AI 포트폴리오 추천 시스템</em></p>
+  <p align="center"><em>주가 정보, 기업 투자 분석, 금융지식 질문 등 RAG 기반 AI 챗봇 시스템</em></p>
 </header>
 
 <hr />
 
 <!-- 빠른 링크 -->
-<nav id="links" align="center">
-
-  <p>
+<nav id="links">
+  <p align="center">
     <strong>GitHub</strong>
     <br>
     <a href="https://github.com/KE-WhyNot" target="_blank" rel="noopener">https://github.com/KE-WhyNot</a>
@@ -38,7 +36,7 @@
     <strong>NOTIFY</strong> <a href="https://notify.youth-fi.com/swagger-ui.html" target="_blank" rel="noopener">https://notify.youth-fi.com/swagger-ui.html</a>
   </p>
 
-<h3>📒 목차</h3>
+<h3 align="center">📒 목차</h3>
 <p class="toc" style="text-align:center; margin:0;">
   <a href="#intro">프로젝트 소개</a>
   <span aria-hidden="true"> | </span>
@@ -68,27 +66,41 @@
   <p align="center">
     <img src="../assets/home.png" alt="YouthFi 서비스 홈 화면" width="720" />
   </p>
-  <p align="center"><em>YouthFi 서비스 홈 화면</em></p>
+  <p align="center"><em>YouthFi 서비스 홈</em></p>
 
   <p align="center">
     <img src="../assets/policy.png" alt="YouthFi 서비스 정책 화면" width="720" />
   </p>
-  <p align="center"><em>YouthFi 서비스 정책 화면</em></p>
+  <p align="center"><em>YouthFi 서비스 정책</em></p>
 
   <p align="center">
     <img src="../assets/deposits.png" alt="YouthFi 서비스 예적금 화면" width="720" />
   </p>
-  <p align="center"><em>YouthFi 서비스 예적금 화면</em></p>
+  <p align="center"><em>YouthFi 서비스 예•적금</em></p>
 
   <p align="center">
     <img src="../assets/invest.png" alt="YouthFi 서비스 모의투자 화면" width="720" />
   </p>
-  <p align="center"><em>YouthFi 서비스 모의투자 화면</em></p>
+  <p align="center"><em>YouthFi 서비스 모의투자</em></p>
 
   <p align="center">
     <img src="../assets/portfolio.png" alt="YouthFi 서비스 포트폴리오 화면" width="720" />
   </p>
-  <p align="center"><em>YouthFi 서비스 포트폴리오 화면</em></p>
+  <p align="center"><em>YouthFi 서비스 AI 포트폴리오</em></p>
+
+  <p align="center">
+    <img src="../assets/chat_stock.png" alt="YouthFi 서비스 AI 챗봇" width="240" />
+    <img src="../assets/chat_news.png" alt="YouthFi 서비스 AI 챗봇" width="240" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 AI 주가•뉴스 분석</em></p>
+  <p align="center">
+    <img src="../assets/chat_stock_report1.png" alt="YouthFi 서비스 AI 챗봇" width="240" />
+    <img src="../assets/chat_stock_report2.png" alt="YouthFi 서비스 AI 챗봇" width="240" />
+    <img src="../assets/chat_stock_report3.png" alt="YouthFi 서비스 AI 챗봇" width="240" />
+  </p>
+  <p align="center"><em>YouthFi 서비스 AI 투자 분석</em></p>
+
+  
 
   <h3>1) 프로젝트 개요</h3>
   <p>
@@ -173,7 +185,8 @@
 <section id="team">
   <h2>👥 팀원 구성</h2>
 
-  <table>
+  <center>
+  <table width="840">
     <tbody>
       <tr>
         <td align="center">
@@ -218,14 +231,14 @@
             <img src="https://avatars.githubusercontent.com/Watchiiee" width="100px" alt="정명성 프로필 이미지" /><br />
             <sub><b>정명성</b></sub>
           </a><br />
-          <sub>프론트<br />프론트</sub>
+          <sub>프론트 파트장<br />UI/UX</sub>
         </td>
         <td align="center">
           <a href="깃허브주소">
             <img src="https://avatars.githubusercontent.com/dahyun174" width="100px" alt="곽다현 프로필 이미지" /><br />
             <sub><b>곽다현</b></sub>
           </a><br />
-          <sub>프론트<br />프론트</sub>
+          <sub>프론트<br />UI/UX</sub>
         </td>
         <td align="center">
           <!-- 필요 시 예비 칸 / 삭제 가능 -->
@@ -233,6 +246,7 @@
       </tr>
     </tbody>
   </table>
+  </center>
 </section>
 
 <hr />
@@ -242,8 +256,8 @@
   <h2>🧰 기술 스택</h2>
 
   <!-- Frontend -->
-<h3>Frontend</h3>
-  <p>
+<h3 align="center">Frontend</h3>
+  <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-5-FF6B6B?style=for-the-badge" />
@@ -258,8 +272,8 @@
 </p>
 
   <!-- Backend -->
-<h3>Backend</h3>
-  <p>
+<h3 align="center">Backend</h3>
+  <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-3.5.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -269,8 +283,8 @@
   </p>
 
   <!-- AI / Data -->
-<h3>AI / Data</h3>
-  <p>
+<h3 align="center">AI / Data</h3>
+  <p align="center">
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -283,8 +297,8 @@
   </p>
 
   <!-- Database / Messaging / Caching -->
-<h3>Database / Messaging / Caching</h3>
-  <p>
+<h3 align="center">Database / Messaging / Caching</h3>
+  <p align="center">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -292,8 +306,8 @@
   </p>
 
   <!-- Infra / DevOps -->
-<h3>Infra / DevOps</h3>
-<p>
+<h3 align="center">Infra / DevOps</h3>
+<p align="center">
   <img alt="Kakao Cloud Platform" src="https://img.shields.io/badge/Kakao_Cloud_Platform-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black" />
   <img alt="Oracle Cloud Infrastructure" src="https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
@@ -309,11 +323,9 @@
 </p>
 
   <!-- Monitoring / Docs / Test -->
-<h3>Monitoring / Docs / Test</h3>
-  <p>
-    <a href="https://api.alzheimerdinger.com/swagger-ui/index.html#/">
-      <img alt="Swagger API Docs" src="https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
-    </a>
+<h3 align="center">Monitoring / Docs / Test</h3>
+  <p align="center">
+    <img alt="Swagger API Docs" src="https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
     <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
     <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
