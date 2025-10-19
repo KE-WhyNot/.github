@@ -31,7 +31,7 @@
     <br>
     <strong>FINANCE</strong> <a href="https://finance.youth-fi.com/swagger-ui.html" target="_blank" rel="noopener">https://finance.youth-fi.com/swagger-ui.html</a>
     <br>
-    <strong>POLICY</strong> <a href="https://policy.youth-fi.com/swagger-ui.html" target="_blank" rel="noopener">https://policy.youth-fi.com/swagger-ui.html</a>
+    <strong>POLICY</strong> <a href="https://policy.youth-fi.com/docs#/" target="_blank" rel="noopener">https://policy.youth-fi.com/docs#/</a>
     <br>
     <strong>NOTIFY</strong> <a href="https://notify.youth-fi.com/swagger-ui.html" target="_blank" rel="noopener">https://notify.youth-fi.com/swagger-ui.html</a>
   </p>
