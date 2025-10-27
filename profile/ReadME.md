@@ -1,4 +1,6 @@
-<!-- 헤더 / 배지 -->
+<p align="center">
+    <img src="../assets/banner.png" alt="YouthFi Banner" width="1080" />
+  </p>
 <header id="top">
   <h1 align="center">YouthFi — 청년 정책∙예적금 AI 포트폴리오 추천 및 모의투자 시스템</h1>
 
